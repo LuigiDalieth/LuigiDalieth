@@ -1,7 +1,3 @@
-<img width="640" height="336" alt="image" src="https://github.com/user-attachments/assets/c4a50fa1-aa47-4d68-baaf-60bc8c3be050" />
-
-
-
 # 💫 About Me:
 # 👋 Hola, soy Luiger Dalieth Ledezma Asprilla
 
