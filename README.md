@@ -1,6 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/30994909/ReadMe.md)
-
-
 # 💫 About Me:
 # 👋 Hola, soy Luiger Dalieth Ledezma Asprilla
 
