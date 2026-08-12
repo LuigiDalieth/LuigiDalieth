@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1199" height="674" alt="image" src="https://github.com/user-attachments/assets/b9976e10-7e6c-4121-8cc5-c51979c8b2b3" />
+
 
 # 💫 About Me:
 # 👋 Hola, soy Luiger Dalieth Ledezma Asprilla
@@ -12,7 +13,7 @@
 📚 Siempre aprendiendo, creando y creciendo como desarrollador.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Luigi Jackson) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@negan6909) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luugerdalieth@gmail.com) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@negan6909) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luugerdalieth@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
