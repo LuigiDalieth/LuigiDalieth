@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 👨‍💻 **Luiger Dalieth Ledezma Asprilla**<br><br>🎓 Estudiante de **Análisis y Desarrollo de Software (ADSO) — SENA**<br>💻 Apasionado por la programación y el desarrollo de software.<br>🚀 Actualmente aprendiendo y fortaleciendo mis conocimientos en **Java, SQL, Git, GitHub, bases de datos y desarrollo de software**.<br><br>📚 Siempre buscando aprender, crear proyectos y mejorar mis habilidades como desarrollador.<br><br>> “Aprendiendo hoy para construir soluciones mañana.” 🇨🇴<br>
 
 
